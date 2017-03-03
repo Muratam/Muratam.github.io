@@ -1,5 +1,4 @@
 # ![1](http://sagisawa.0am.jp/icons/me.jpg) murata's profile
-
 - ゲームを作ったりPietを描いたりBotを量産したりするよ
 - [<i class="fa fa-amazon"></i> 誕生日プレゼントは前後半年受け付けてます！！](http://amzn.asia/4n4xnzC)
 
