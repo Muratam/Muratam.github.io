@@ -10,7 +10,7 @@
     <link rel="icon" href="http://sagisawa.0am.jp/icons/me.jpg" type="image/x-icon" />
 
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet/less" type="text/css" href="styles.less">
+    <link rel="stylesheet/less" type="text/css" href="style.less">
     <link href="umi/css/bootstrap.min.css" rel="stylesheet">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -27,11 +27,7 @@
         <div id="markdown-text"> </div>
     </div>
     <script src="umi/js/bootstrap.min.js"></script>
-    <script>
-        $.get("index.md", (data) => {
-            $("#markdown-text")[0].innerHTML = marked(data);
-        }, "text");
-    </script>
+    <script src="mymd.js"></script>
 </body>
 
 </html>
