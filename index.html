@@ -3,32 +3,66 @@
 
 <head>
     <meta charset="utf-8">
-    <title>むらただよ</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="./style.css" rel="stylesheet"> 
+
+    <title>むらただよ</title>
     <link rel="icon" href="http://sagisawa.0am.jp/icons/me.jpg" type="image/x-icon" />
+
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet/less" type="text/css" href="styles.less">
+    <link href="umi/css/bootstrap.min.css" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/2.7.2/less.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.min.js"></script>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 
 <body>
-    <h2>
-    <i class="fa fa-github"></i>
-    <a href="https://github.com/Muratam">GitHub</a><br>
-    <a href="https://twitter.com/paradigm_9">twitter</a><br>
-    <a href="http://chy72.hatenablog.com/">はてなブログ</a><br>
-    <a href="https://unityroom.com/users/qaeo2r0p8369k57ynumc">UnityRoom</a><br>
-    <a href="https://play.google.com/store/apps/developer?id=Murata72&hl=ja">GooglePlay</a><br>
-    <a href="https://pixiv.me/paradigm_9">Pixiv</a><br>
-    <a href="https://twitter.com/gochiusa_sokuho">ごちうさ速報</a><br>
-    <a href="http://muratam.0am.jp/fm/"> fm.js </a><br>
-    <a href="http://sagisawa.0am.jp/">鷺沢システム</a><br>
-    <a href="https://www.slideshare.net/CHY72">SlideShare</a><br>
-    <a href="https://www.youtube.com/channel/UCwwhYKrXXHpEXoZW4Zdtsdg">Youtube</a><br>
-    <a href="https://www.kmc.gr.jp/members/">KMC</a><br>
-    <a href="http://matsutei.web.fc2.com/product.html">松茸定食</a><br>
-    <a href="http://qiita.com/paradigm_9">Qiita</a><br>
-    </h2>
-    このサーバーは鷺沢システム(System Sagisawa)によって運営されています。
+
+    <header>
+        <div class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a href="https://nkmr6194.github.io/Umi/" class="navbar-brand">Murata</a>
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse" id="navbar-main">
+                    <ul class="nav navbar-nav">
+                        <li><a href="https://nkmr6194.github.io/Umi/">Top</a></li>
+                        <li class="dropdown active">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Demo <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="./bootstrap-ja.html">Japanese Page</a></li>
+                                <li><a href="./bootstrap.html">English Page</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="//github.com/NKMR6194/Umi/releases">Download</a></li>
+                        <li><a href="//github.com/windyakin/Honoka/wiki">Wiki</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <h1>Murata</h1>
+        <div id="markdown-text"> </div>
+    </div>
+    <script src="umi/js/bootstrap.min.js"></script>
+    <script>
+        $.get("index.md", (data) => {
+            $("#markdown-text")[0].innerHTML = marked(data);
+        }, "text");
+    </script>
 </body>
 
 </html>
