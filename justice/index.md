@@ -5,16 +5,16 @@
 
 - C++
   > 速度は正義
-- C#
-  > Unityは正義
-- es6
-  > ブラウザアセンブリは正義
-- JVM
-  > kotlinは正義
-- Piet
-  > 画像は正義
 - Python3
   > ライブラリは正義
+- es6
+  > ブラウザアセンブリは正義
+- Piet
+  > 画像は正義
+- C#
+  > Unityは正義
+- JVM
+  > kotlinは正義
 - D
   > 綺麗なC++は正義
 - GLSL
