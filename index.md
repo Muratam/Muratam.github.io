@@ -1,5 +1,5 @@
 # ![1](/me.jpg) murata's profile
-- 役に立たないものを作りたいので、頑張って使ってね
+- 役に立たないものを作りたいので、頑張って役立ててね
 - [<i class="fa fa-amazon"></i> 誕生日プレゼントは前後半年受け付けてます！！](http://amzn.asia/4n4xnzC)
 
 
