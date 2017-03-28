@@ -1,5 +1,5 @@
-# ![1](http://sagisawa.0am.jp/icons/me.jpg) murata's profile
-- ゲームを作ったりPietを描いたりBotを量産したりするよ
+# ![1](/me.jpg) murata's profile
+- 僕が役に立たないものを作るので、あなたはそれを頑張って使ってね
 - [<i class="fa fa-amazon"></i> 誕生日プレゼントは前後半年受け付けてます！！](http://amzn.asia/4n4xnzC)
 
 
