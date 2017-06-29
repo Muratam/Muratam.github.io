@@ -23,7 +23,7 @@
   > Piet以外も描いていきたい…
 - [<i class="fa fa-image"></i> 鷺沢システム](http://sagisawa.0am.jp/)
   > 鷺沢さんを称えるraspiサーバーだよ
-- [<i class="fa fa-hourglass"></i> LT 5:00 Timer](http://sagisawa.0am.jp/lt_timer/)
+- [<i class="fa fa-hourglass"></i> LT 5:00 Timer](./lt_timer/)
   > 銅鑼パーソンのための5分をカウントするナウいタイマーだよ
 
 
