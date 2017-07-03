@@ -25,7 +25,6 @@
   > 鷺沢さんを称えるraspiサーバーだよ
 - [<i class="fa fa-twitter"></i> クソポンチ絵forまんがタイムきらら監視Bot](https://twitter.com/kirara_kanshi)
   > きらら共生共創社会プロジェクトの更新を監視しているよ
-
 - [<i class="fa fa-hourglass"></i> LT 5:00 Timer](./lt_timer/)
   > 銅鑼パーソンのための5分をカウントするナウいタイマーだよ
 
