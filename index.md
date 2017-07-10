@@ -28,7 +28,9 @@
   > きらら共生共創社会プロジェクトの更新を監視しているよ
 - [<i class="fa fa-hourglass"></i> LT 5:00 Timer](./lt_timer/)
   > 銅鑼パーソンのための5分をカウントするナウいタイマーだよ
-
+- [<i class="fa fa-slack"></i> python yaml slack bot](https://github.com/Muratam/yamlslackbot)
+  > yamlで設定を記述できるpython3向けのslackbot用ライブラリだよ <br>
+  > (そのうちPyPIに登録する予定だよ)
 
 ## SNS
 
