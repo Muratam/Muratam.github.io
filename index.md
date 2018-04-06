@@ -9,32 +9,31 @@
 
 - [<i class="fa fa-github"></i> GitHub](https://github.com/Muratam)
   - [UltraPiet](https://github.com/Muratam/UltraPiet)
-    > ゲームも作れるPietの独自拡張
-  - [memo memo](https://muratam.github.io/memo/)
-    > 使い勝手のいいメモアプリがなかったので自作した
+    > ゲームも作れるPietの独自拡張言語
   - [Vue/Vuex from class](https://github.com/Muratam/vue-vuex-from-class)
     > Vue/Vuex をクラスから書けるようにするライブラリ
   - [CCDXLib72](https://github.com/Muratam/CCDxLib72)
-    > Cocos2dx用DXLibのラッパー
+    > Cocos2dx用DXLibのラッパーライブラリ
+  - [<i class="fa fa-slack"></i> python yaml slack bot](https://github.com/Muratam/yamlslackbot)
+    > yamlで設定を記述できるpython3向けのslackbot用ライブラリ
 - [<i class="fa fa-gamepad"></i> Unity Games](https://unityroom.com/users/qaeo2r0p8369k57ynumc)
   > ブラウザ向けのゲームを色々作ったりしているよ
 - [<i class="fa fa-android"></i> Google Play ](https://play.google.com/store/apps/developer?id=Murata72&hl=ja)
   > Android向けのゲームも作るよ
+- [memo memo](https://muratam.github.io/memo/)
+  > 使い勝手のいいメモアプリがなかったので自作した
 - [<i class="fa fa-play"></i> fm.js](http://muratam.0am.jp/fm/)
-  > fm音源をみんなでいじって共有するWebサービスだよ
+  > fm音源をみんなでいじって共有するWebサービス
 - [<i class="fa fa-twitter"></i> ごちうさ速報](https://twitter.com/gochiusa_sokuho)
-  > ニコ動のごちうさの1羽のコメント弾幕を毎日お知らせするよ
+  > ニコ動のごちうさの1羽のコメント弾幕を毎日お知らせ
 - [<i class="fa fa-image"></i> Pixiv](https://pixiv.me/paradigm_9)
-  > Piet以外も描いていきたい…
+  > Piet以外も描いていくぞ！！
 - [<i class="fa fa-image"></i> 鷺沢システム](http://sagisawa.0am.jp/)
-  > 鷺沢さんを称えるサーバーだよ(raspi => ConoHa)
+  > 鷺沢さんを称える個人用サーバー（鍵とかはナイショだよ）
 - [<i class="fa fa-twitter"></i> クソポンチ絵forまんがタイムきらら監視Bot](https://twitter.com/kirara_kanshi)
-  > きらら共生共創社会プロジェクトの更新を監視しているよ
+  > きらら共生共創社会プロジェクト監視
 - [<i class="fa fa-hourglass"></i> LT 5:00 Timer](./lt_timer/)
-  > 銅鑼パーソンのための5分をカウントするナウいタイマーだよ
-- [<i class="fa fa-slack"></i> python yaml slack bot](https://github.com/Muratam/yamlslackbot)
-  > yamlで設定を記述できるpython3向けのslackbot用ライブラリだよ <br>
-  > (そのうちPyPIに登録する予定だよ)
+  > LT用5分カウント雑タイマー
 
 ## SNS
 
