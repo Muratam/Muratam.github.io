@@ -10,6 +10,10 @@
 - [<i class="fa fa-github"></i> GitHub](https://github.com/Muratam)
   - [UltraPiet](https://github.com/Muratam/UltraPiet)
     > ゲームも作れるPietの独自拡張
+  - [memo memo](https://muratam.github.io/memo/)
+    > 使い勝手のいいメモアプリがなかったので自作した
+  - [Vue/Vuex from class](https://github.com/Muratam/vue-vuex-from-class)
+    > Vue/Vuex をクラスから書けるようにするライブラリ
   - [CCDXLib72](https://github.com/Muratam/CCDxLib72)
     > Cocos2dx用DXLibのラッパー
 - [<i class="fa fa-gamepad"></i> Unity Games](https://unityroom.com/users/qaeo2r0p8369k57ynumc)
