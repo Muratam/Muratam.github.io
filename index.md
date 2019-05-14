@@ -14,8 +14,12 @@
     > Vue/Vuex をクラスから書けるようにするライブラリ
   - [CCDXLib72](https://github.com/Muratam/CCDxLib72)
     > Cocos2dx用DXLibのラッパーライブラリ
+  - [ibuki.ts](https://github.com/Muratam/ibuki.ts)
+    > DOM要素を普通のゲームエンジンのSpriteのように扱えるtypescriptゲームエンジン
   - [python yaml slack bot](https://github.com/Muratam/yamlslackbot)
     > yamlで設定するPython3のslackbotライブラリ
+  - [yukicoder](https://github.com/Muratam/yukicoder-nim)
+    > yukicoderのNimで解いてるリポジトリ
 - [<i class="fa fa-gamepad"></i> Unity Games](https://unityroom.com/users/qaeo2r0p8369k57ynumc)
   > ブラウザ向けのゲームを作ったりするよ
 - [<i class="fa fa-android"></i> Google Play ](https://play.google.com/store/apps/developer?id=Murata72&hl=ja)
@@ -50,5 +54,5 @@
 - [<i class="fa fa-users"></i> KMC](https://www.kmc.gr.jp/members/)
 - [<i class="fa fa-users"></i> 松茸定食](http://matsutei.web.fc2.com/product.html)
 - [<i class="fa fa-users"></i> 茨高数研(OB)](https://play.google.com/store/apps/developer?id=%E8%8C%A8%E6%9C%A8%E9%AB%98%E6%A0%A1%E6%95%B0%E5%AD%A6%E7%A0%94%E7%A9%B6%E9%83%A8%EF%BC%81)
-
+- [<i class="fa fa-users"></i> 百万円ドリブン](https://github.com/Muratam/isucon8q ) [(ISUCON)](https://github.com/Muratam/isucon7f)
 
