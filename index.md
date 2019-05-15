@@ -20,6 +20,8 @@
     > yamlで設定するPython3のslackbotライブラリ
   - [yukicoder](https://github.com/Muratam/yukicoder-nim)
     > yukicoderのNimで解いてるリポジトリ
+  - [tetris-esolang](https://sagisawa.0am.jp/tetris/) 
+    > テトリスの難解言語
 - [<i class="fa fa-gamepad"></i> Unity Games](https://unityroom.com/users/qaeo2r0p8369k57ynumc)
   > ブラウザ向けのゲームを作ったりするよ
 - [<i class="fa fa-android"></i> Google Play ](https://play.google.com/store/apps/developer?id=Murata72&hl=ja)
