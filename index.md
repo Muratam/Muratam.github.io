@@ -33,6 +33,8 @@
     > LT用5分カウント雑タイマー
   - [鷺沢システム](http://sagisawa.0am.jp/)
     > 鷺沢さんを称える個人用サーバー（鍵とかはナイショだよ）
+  -  [<i class="fa fa-github"></i> 東方超人録のWeb版](https://github.com/kmc-jp/choujinroku)
+    > [(開発中...)](https://inside.kmc.gr.jp/~murata/choujinroku/dist/)
 - Twitter Bots
   - [<i class="fa fa-twitter"></i>  ごちうさ速報](https://twitter.com/gochiusa_sokuho)
     > ニコ動のごちうさの1羽のコメント弾幕を毎日お知らせ
