@@ -14,8 +14,14 @@
     > Vue/Vuex をクラスから書けるようにするライブラリ
   - [CCDXLib72](https://github.com/Muratam/CCDxLib72)
     > Cocos2dx用DXLibのラッパーライブラリ
+  - [ibuki.ts](https://github.com/Muratam/ibuki.ts)
+    > DOM要素を普通のゲームエンジンのSpriteのように扱えるtypescriptゲームエンジン
   - [python yaml slack bot](https://github.com/Muratam/yamlslackbot)
     > yamlで設定するPython3のslackbotライブラリ
+  - [yukicoder](https://github.com/Muratam/yukicoder-nim)
+    > yukicoderのNimで解いてるリポジトリ
+  - [tetris-esolang](https://sagisawa.0am.jp/tetris/) 
+    > テトリスの難解言語
 - [<i class="fa fa-gamepad"></i> Unity Games](https://unityroom.com/users/qaeo2r0p8369k57ynumc)
   > ブラウザ向けのゲームを作ったりするよ
 - [<i class="fa fa-android"></i> Google Play ](https://play.google.com/store/apps/developer?id=Murata72&hl=ja)
@@ -33,14 +39,16 @@
 - [<i class="fa fa-twitter"></i> クソポンチ絵forまんがタイムきらら監視Bot](https://twitter.com/kirara_kanshi)
   > きらら共生共創社会プロジェクト監視
 
-## SNS
+## Accounts
 
 - [<i class="fa fa-twitter"></i> twitter](https://twitter.com/paradigm_9)
 - [<i class="fa fa-question-circle"></i> はてなブログ](http://chy72.hatenablog.com/)
+- [<i class="fa fa-code"></i> yukicoder](https://yukicoder.me/users/4085)
+- [<i class="fa fa-code"></i> AtCoder](https://atcoder.jp/users/murata)
 - [<i class="fa fa-slideshare"></i> SlideShare](https://www.slideshare.net/CHY72)
+- [<i class="fa fa-image"></i> Pixiv](https://pixiv.me/paradigm_9)
 - [<i class="fa fa-quora"></i> Qiita](http://qiita.com/sessions)
 - [<i class="fa fa-youtube-play"></i> Youtube](https://www.youtube.com/channel/UCwwhYKrXXHpEXoZW4Zdtsdg)
-- [<i class="fa fa-image"></i> Pixiv](https://pixiv.me/paradigm_9)
 
 
 ## Groups
@@ -48,5 +56,5 @@
 - [<i class="fa fa-users"></i> KMC](https://www.kmc.gr.jp/members/)
 - [<i class="fa fa-users"></i> 松茸定食](http://matsutei.web.fc2.com/product.html)
 - [<i class="fa fa-users"></i> 茨高数研(OB)](https://play.google.com/store/apps/developer?id=%E8%8C%A8%E6%9C%A8%E9%AB%98%E6%A0%A1%E6%95%B0%E5%AD%A6%E7%A0%94%E7%A9%B6%E9%83%A8%EF%BC%81)
-
+- [<i class="fa fa-users"></i> 百万円ドリブン](https://github.com/Muratam/isucon8q ) [(ISUCON)](https://github.com/Muratam/isucon7f)
 
