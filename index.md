@@ -18,7 +18,7 @@
   - [<i class="fa fa-github"></i> python yaml slack bot](https://github.com/Muratam/yamlslackbot)
     > yamlで設定するPython3のslackbotライブラリ
 - Games
-  - [<i class="fa fa-gamepad"></i>  Unity Games](https://unityroom.com/users/qaeo2r0p8369k57ynumc)
+  - [<i class="fa fa-gamepad"></i>  Unity Games](https://unityroom.com/users/qaeo2r0p8369k57ynumc) [<i class="fa fa-gamepad"></i>](https://unityroom.com/games/syachihokowasshoi) [<i class="fa fa-gamepad"></i>](https://unityroom.com/games/ninja_chicken_kun)
     > ブラウザ向けのゲームを作ったりするよ
   - [<i class="fa fa-android"></i>  Google Play ](https://play.google.com/store/apps/developer?id=Murata72&hl=ja)
     > Android向けのゲームも作るよ
