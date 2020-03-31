@@ -62,6 +62,6 @@
 ## Groups
 
 - [<i class="fa fa-users"></i>  KMC](https://www.kmc.gr.jp/members/)
-- [<i class="fa fa-users"></i> 百万円ドリブン(ISUCON)](http://isucon.net/):[9f](https://github.com/Muratam/isucon9f) [8f](https://github.com/aokabi/isucon8f) [7f](https://github.com/Muratam/isucon7f)
+- [<i class="fa fa-users"></i> 百万円ドリブン(ISUCON)](http://isucon.net/) : [9f](https://github.com/Muratam/isucon9f) [8f](https://github.com/aokabi/isucon8f) [7f](https://github.com/Muratam/isucon7f)
 - [<i class="fa fa-users"></i>  茨高数研(OB)](https://play.google.com/store/apps/developer?id=%E8%8C%A8%E6%9C%A8%E9%AB%98%E6%A0%A1%E6%95%B0%E5%AD%A6%E7%A0%94%E7%A9%B6%E9%83%A8%EF%BC%81)
 - [<i class="fa fa-users"></i>  松茸定食](http://matsutei.web.fc2.com/product.html)
