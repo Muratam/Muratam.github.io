@@ -58,6 +58,7 @@
 - [<i class="fa fa-user"></i>  VRoid Hub](https://hub.vroid.com/users/13550056)
 - [<i class="fa fa-youtube-play"></i>  Youtube](https://www.youtube.com/channel/UCwwhYKrXXHpEXoZW4Zdtsdg)
 - [<i class="fa fa-slideshare"></i>  SlideShare](https://www.slideshare.net/CHY72)
+- [<i class="fas fa-tshirt"></i> Suzuri](https://suzuri.jp/paradigm_9)
 - [🀄 じゃんたま](https://amae-koromo.sapk.ch/player/72027917)
 
 ## Groups
