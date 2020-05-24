@@ -53,15 +53,15 @@
 - [<i class="fa fa-question-circle"></i>  はてなブログ](http://chy72.hatenablog.com/)
 - [<i class="fa fa-code"></i>  yukicoder](https://yukicoder.me/users/4085)
 - [<i class="fa fa-code"></i>  AtCoder](https://atcoder.jp/users/murata)
-- [<i class="fa fa-steam"></i>  Steam](https://steamcommunity.com/id/muratam/)
+- [<i class="fa fa-code"></i>  MAO](https://mao.snuke.org/users/murata)
 - [<i class="fa fa-quora"></i>  Qiita](http://qiita.com/sessions)
+- [<i class="fa fa-slideshare"></i>  SlideShare](https://www.slideshare.net/CHY72)
 - [<i class="fa fa-image"></i>  Pixiv](https://pixiv.me/paradigm_9)
 - [<i class="fa fa-user"></i>  VRoid Hub](https://hub.vroid.com/users/13550056)
-- [<i class="fa fa-youtube-play"></i>  Youtube](https://www.youtube.com/channel/UCfqSY2dkI_QfFEeRaK8m24Q)
-- [<i class="fa fa-slideshare"></i>  SlideShare](https://www.slideshare.net/CHY72)
 - [<i class="fa fa-pencil"></i> Suzuri](https://suzuri.jp/paradigm_9)
+- [<i class="fa fa-youtube-play"></i>  Youtube](https://www.youtube.com/channel/UCfqSY2dkI_QfFEeRaK8m24Q)
+- [<i class="fa fa-steam"></i>  Steam](https://steamcommunity.com/id/muratam/)
 - [🀄 じゃんたま](https://amae-koromo.sapk.ch/player/72027917)
-- [<i class="fa fa-code"></i>  MAO](https://mao.snuke.org/users/murata)
 
 ## Groups
 
