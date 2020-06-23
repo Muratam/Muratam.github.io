@@ -36,6 +36,8 @@
   -  [<i class="fa fa-github"></i> 東方超人録のWeb版](https://github.com/kmc-jp/choujinroku)
     > [(開発中...)](https://inside.kmc.gr.jp/~murata/choujinroku/dist/)
 - Twitter Bots
+  - [<i class="fa fa-twitter"></i>  Wikipedia Quiz](https://twitter.com/wikipedia_quiz)
+    > Wikipedia Quiz (https://github.com/Muratam/wikipedia_quiz)
   - [<i class="fa fa-twitter"></i>  ごちうさ速報](https://twitter.com/gochiusa_sokuho)
     > ニコ動のごちうさの1羽のコメント弾幕を毎日お知らせ
   - [<i class="fa fa-twitter"></i>  クソポンチ絵forまんがタイムきらら監視Bot](https://twitter.com/kirara_kanshi)
