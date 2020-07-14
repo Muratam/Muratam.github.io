@@ -63,6 +63,7 @@
 - [<i class="fa fa-pencil"></i> Suzuri](https://suzuri.jp/paradigm_9)
 - [<i class="fa fa-youtube-play"></i>  Youtube](https://www.youtube.com/channel/UCfqSY2dkI_QfFEeRaK8m24Q)
 - [<i class="fa fa-steam"></i>  Steam](https://steamcommunity.com/id/muratam/)
+- [<i class="fa fa-pencil"></i> Scrapbox](https://scrapbox.io/murata-memo/)
 - [🀄 じゃんたま](https://amae-koromo.sapk.ch/player/72027917)
 
 ## Groups
