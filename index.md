@@ -29,8 +29,8 @@
     > テトリスの難解言語
   - [memo memo](https://muratam.github.io/memo/)
     > 使い勝手のいいメモアプリがなかったので自作した
-  - [打牌精度チェッカー](https://sagisawa.0am.jp/akochandaaaaa/)
-    > 麻雀の打牌精度をチェックしたかったのでつくった
+  - [牌効率チェッカー](https://sagisawa.0am.jp/akochandaaaaa/)
+    > 麻雀の牌効率をチェック！
   - [LT 5:00 Timer](./lt_timer/)
     > LT用5分カウント雑タイマー
   - [鷺沢システム](http://sagisawa.0am.jp/)
