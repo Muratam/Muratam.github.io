@@ -6,8 +6,10 @@
 ## Products
 
 - Developments
-  - [<i class="fa fa-github"></i> Go SyncMap Server](https://github.com/Muratam/go-syncmapserver)
+  - [<i class="fa fa-github"></i> Go SyncMap Server](https://github.com/Muratam/syncmapserver)
     > ISUCONに特化したRedisライクなGo言語のKeyValueStore
+  - [<i class="fa fa-github"></i> Go SQLMap](https://github.com/Muratam/sqlmap)
+    > Go と SQL との関係をワン・コマンドで可視化
   - [<i class="fa fa-github"></i> UltraPiet](https://github.com/Muratam/UltraPiet)
     > ゲームも作れるPietの独自拡張言語
 - Libraries
