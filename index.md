@@ -16,8 +16,6 @@
     > めっちゃ計算してPietをドット絵に埋め込んでくれる君
   - [<i class="fa fa-github"></i> UltraPiet](https://github.com/Muratam/UltraPiet)
     > ゲームも作れるPietの独自拡張言語
-  - [<i class="fa fa-github"></i> ibuki.ts](https://github.com/Muratam/ibuki.ts)
-    > DOM要素を普通のゲームエンジンのSpriteのように扱えるtypescriptゲームエンジン
   - [<i class="fa fa-github"></i> python yaml slack bot](https://github.com/Muratam/yamlslackbot)
     > yamlで設定するPython3のslackbotライブラリ
   - [<i class="fa fa-github"></i> 東方弾幕画報の確率解析](https://github.com/Muratam/danmakugahou)
