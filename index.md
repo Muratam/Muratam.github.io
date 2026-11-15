@@ -6,7 +6,6 @@
 ## Products
 - 配信中の一覧 は https://sagisawa.0am.jp/ へ
 - [<i class="fa fa-github"></i> 東方超人録のWeb版](https://github.com/kmc-jp/choujinroku)  [(開発中...)](https://inside.kmc.gr.jp/~murata/choujinroku/dist/)
-- [<i class="fa fa-github"></i> 東方弾幕画報の確率解析](https://github.com/Muratam/danmakugahou)
 
 ## Accounts
 
